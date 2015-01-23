@@ -1,5 +1,7 @@
-# CU-BDA-Lab01
+# Student Information
 
-Alex Nagle  
-MEng Student, ORIE  
-Expected Graduation: May 2015  
+**Name:** Alex Nagle  
+**Major:** MEng Student, ORIE  
+**Student Status:** Expected Graduation: May 2015  
+
+# Data Analysis Interests
