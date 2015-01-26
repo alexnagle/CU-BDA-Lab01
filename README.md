@@ -14,8 +14,7 @@ Our task is to analyze the sampling methods used, and to suggest and/or implemen
 We have found so far that there is significant time-based correlation, but since the relative shares assigned to each distributor move slowly over time, there may be room for bayesian methods in analyzing the prior distributions.
 
 The following plot shows some historical data for three of the 75 vendors that we are studying. 
-The names of the vendors have been redacted.
-
-Image will go here.
+The names of the vendors have been redacted for confidentiality reasons. 
+There is a time-series dependent distribution for the number of returns for each vendor, but perhaps using some knowledge about the prior distributions will help us to implement a more efficient sampling algorithm.
 
 ![](Rplot.png?raw=true)
