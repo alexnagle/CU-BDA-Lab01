@@ -18,4 +18,4 @@ The names of the vendors have been redacted.
 
 Image will go here.
 
-(image/Rplot.png?raw=true)
+![](image/Rplot.png?raw=true)
