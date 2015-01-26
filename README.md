@@ -17,3 +17,5 @@ The following plot shows some historical data for three of the 75 vendors that w
 The names of the vendors have been redacted.
 
 Image will go here.
+
+(image/Rplot.png?raw=true)
